@@ -1,87 +1,100 @@
-
-<!-- Profile README for Aman Kumar Singh -->
-
-<h1 align="center">Hi 👋, I'm Aman Kumar Singh</h1>
+<h1 align="center">Hi 👋, I'm Sagar Choudhary</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;AI+%26+Cloud+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00F5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+tRPC;Building+Production-Ready+Products;End-to-End+Ownership" alt="Typing SVG" />
 </p>
 
-
 <p align="center">
-  <a href="mailto:contact.amankumarsingh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aman-kumar-singh-687408280/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://aman-kumar-official.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/aman-kumar-official"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:sagar6203620715@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sagar-choudhary2004/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Sagar-6203620715"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### 💡 About Me
-🚀 I’m a **Full Stack Developer** passionate about building scalable apps using the **MERN stack** and **cloud-native tools**.  
-🔍 I love solving real-world problems with code — especially using **AI**, **automation**, and clean UI/UX.  
-🎓 Currently pursuing B.Tech in Computer Science @ **VIT Chennai (2023–2027)**  
-🛠️ Fast learner, detail-oriented, and driven by curiosity.
+## 🚀 About Me
+
+I’m a **Full Stack Developer** who loves building **real-world, production-grade applications** — not just demos.  
+I enjoy **owning products end-to-end**, from backend architecture and data modeling to polished, user-friendly interfaces.
+
+🎓 **B.Tech in Computer Science** @ **IIIT Agartala (2023–2027)**  
+💼 **SDE Intern @ Electrochem Power Systems** (Next.js, TypeScript, tRPC)  
+🧠 Strong fundamentals in **MERN**, backend systems, and scalable APIs  
+⚡ Fast learner — comfortable adapting to new stacks (Node, PHP, tRPC)
 
 ---
 
-### 🧠 Tech Stack & Tools
+## 💼 Experience
 
-**Languages:**  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### 🔧 SDE Intern — Electrochem Power Systems
+- Building a **full production e-commerce platform** using **Next.js 15, TypeScript, tRPC, MongoDB**
+- Implemented **JWT authentication**, **role-based access**, **admin dashboards**, and **product catalogs**
+- Integrated **payment workflows** and **automated PDF Proforma Invoice generation**
+- Added **WhatsApp invoice delivery** and optimized data fetching with typed APIs
+
+### 🏭 IT Intern — Tata Motors
+- Built the **entire hotel management module** using **PHP & MySQL**
+- Designed schemas, implemented **CRUD APIs**, filtering, pagination, and admin-only authorization
+- Collaborated with frontend and booking modules to maintain data consistency
+- Gained strong hands-on experience with **Git/GitHub**, teamwork, and production workflows
+
+---
+
+## 🧠 Tech Stack
+
+### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-**Frontend:**  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-**Backend & DB:**  
+### Backend & Databases
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![tRPC](https://img.shields.io/badge/-tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Dev Tools:**  
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### 🏠 [Airbnb Replica](https://github.com/aman-kumar-official/wanderlust)
-> A full-stack travel platform with smart search, secure Stripe payments, Google Maps integration, user & host dashboards — built with **MERN stack**, **Tailwind CSS**, **Cloudinary**, and **MongoDB**.
+### 🎓 Coursify — Course Comparator Platform
+🔗 https://course-comparator.netlify.app  
+- Full-stack platform to compare courses by **domain, price, duration, rating**
+- Implemented **domain-aware search**, analytics, reviews, and admin controls
+- Built with **React, Redux Toolkit, Node.js, Express, MongoDB**
 
-#### 🧠 [AI-Powered Cyber Threat Detection](https://github.com/aman-kumar-official/ai)
-> ML-based app using **Isolation Forest** to detect network anomalies in real-time. Built with **Python, Flask, Scikit-learn**, and packet capture tools like **Wireshark/tshark**.
-
-#### 🤖 IR Proximity Sensor
-> Simulated a smart **parking assistant** using IR sensor & Arduino, with custom LED/servo logic for real-time object detection.
-
----
-
-### 🧾 Certifications
-- 🏅 Full-Stack Web Development (MERN)
-- 🔐 Cybersecurity Basics – ISACA
-- 🎓 C, C++, Python – IIT Bombay (Spoken Tutorials)
+### ♻️ ReWear — Community Clothing Exchange
+🔗 https://rewearnew.netlify.app  
+- Sustainable clothing exchange platform with **item moderation & swap workflows**
+- JWT auth, admin dashboard, real-time messaging, analytics
+- **Hackathon Finalist**
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aman-kumar-official&show_icons=true&theme=radical" alt="Aman's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aman-kumar-official&theme=radical&hide_border=true" />
-</p>
+## 🏆 Achievements
+- 🥇 **Tata Cummins Young Achievers Award** — School Topper (Class 10 & 12)
+- 🏁 **Hackathon Finalist** (ReWear)
+- 🎖 Cleared **NDA Exam** (Class 12)
 
 ---
 
-### 🎯 Fun Fact
-> I once built a whole website to manage my daily coffee orders ☕ — no more caffeine chaos!
+## 🎯 Beyond Code
+I’m passionate about **fitness and sports**, which helps me stay disciplined, focused, and consistent — the same mindset I bring into engineering and problem-solving.
 
 ---
+
+⭐ *I enjoy turning ideas into scalable, reliable products and taking complete ownership of whatever I build.*
