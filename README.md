@@ -24,6 +24,9 @@ I enjoy **owning products end-to-end**, from backend architecture and data model
 
 ---
 
+### Holopin Dashboard
+<img src="./holopin.png">
+
 ## 💼 Experience
 
 ### 🔧 SDE Intern — Electrochem Power Systems
