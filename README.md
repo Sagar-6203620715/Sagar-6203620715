@@ -72,28 +72,6 @@ I enjoy **owning products end-to-end**, from backend architecture and data model
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎓 Coursify — Course Comparator Platform
-🔗 https://course-comparator.netlify.app  
-- Full-stack platform to compare courses by **domain, price, duration, rating**
-- Implemented **domain-aware search**, analytics, reviews, and admin controls
-- Built with **React, Redux Toolkit, Node.js, Express, MongoDB**
-
-### ♻️ ReWear — Community Clothing Exchange
-🔗 https://rewearnew.netlify.app  
-- Sustainable clothing exchange platform with **item moderation & swap workflows**
-- JWT auth, admin dashboard, real-time messaging, analytics
-- **Hackathon Finalist**
-
----
-
-## 🏆 Achievements
-- 🥇 **Tata Cummins Young Achievers Award** — School Topper (Class 10 & 12)
-- 🏁 **Hackathon Finalist** (ReWear)
-- 🎖 Cleared **NDA Exam** (Class 12)
-
----
 
 ## 🎯 Beyond Code
 I’m passionate about **fitness and sports**, which helps me stay disciplined, focused, and consistent — the same mindset I bring into engineering and problem-solving.
